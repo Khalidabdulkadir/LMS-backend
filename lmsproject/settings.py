@@ -41,6 +41,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:5173",
     "http://127.0.0.1:3000",
+    "https://lms-frontend-lilac-eight.vercel.app",
 ]
 
 CORS_ALLOWED_CREDENTIALS = True
